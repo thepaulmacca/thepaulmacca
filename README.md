@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83317](https://github.com/MicrosoftDocs/azure-docs/pull/83317) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-2. 🎉 Merged PR [#2](https://github.com/thepaulmacca/thepaulmacca/pull/2) in [thepaulmacca/thepaulmacca](https://github.com/thepaulmacca/thepaulmacca)
-3. 💪 Opened PR [#2](https://github.com/thepaulmacca/thepaulmacca/pull/2) in [thepaulmacca/thepaulmacca](https://github.com/thepaulmacca/thepaulmacca)
-4. 🎉 Merged PR [#1](https://github.com/thepaulmacca/thepaulmacca/pull/1) in [thepaulmacca/thepaulmacca](https://github.com/thepaulmacca/thepaulmacca)
-5. 💪 Opened PR [#1](https://github.com/thepaulmacca/thepaulmacca/pull/1) in [thepaulmacca/thepaulmacca](https://github.com/thepaulmacca/thepaulmacca)
+1. 🗣 Commented on [#3](https://github.com/Azure-Samples/container-apps-store-api-microservice/issues/3) in [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice)
+2. 💪 Opened PR [#83317](https://github.com/MicrosoftDocs/azure-docs/pull/83317) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+3. 🎉 Merged PR [#2](https://github.com/thepaulmacca/thepaulmacca/pull/2) in [thepaulmacca/thepaulmacca](https://github.com/thepaulmacca/thepaulmacca)
+4. 💪 Opened PR [#2](https://github.com/thepaulmacca/thepaulmacca/pull/2) in [thepaulmacca/thepaulmacca](https://github.com/thepaulmacca/thepaulmacca)
+5. 🎉 Merged PR [#1](https://github.com/thepaulmacca/thepaulmacca/pull/1) in [thepaulmacca/thepaulmacca](https://github.com/thepaulmacca/thepaulmacca)
 <!--END_SECTION:activity-->
