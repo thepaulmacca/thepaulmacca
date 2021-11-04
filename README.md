@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83360](https://github.com/MicrosoftDocs/azure-docs/pull/83360) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-2. 🗣 Commented on [#4](https://github.com/Azure-Samples/container-apps-store-api-microservice/issues/4) in [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice)
-3. 🗣 Commented on [#7](https://github.com/Azure-Samples/container-apps-store-api-microservice/issues/7) in [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice)
-4. ❗️ Opened issue [#4](https://github.com/Azure-Samples/container-apps-store-api-microservice/issues/4) in [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice)
-5. 🗣 Commented on [#3](https://github.com/Azure-Samples/container-apps-store-api-microservice/issues/3) in [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice)
+1. 🗣 Commented on [#144](https://github.com/mspnp/aks-secure-baseline/issues/144) in [mspnp/aks-secure-baseline](https://github.com/mspnp/aks-secure-baseline)
+2. 💪 Opened PR [#83360](https://github.com/MicrosoftDocs/azure-docs/pull/83360) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+3. 🗣 Commented on [#4](https://github.com/Azure-Samples/container-apps-store-api-microservice/issues/4) in [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice)
+4. 🗣 Commented on [#7](https://github.com/Azure-Samples/container-apps-store-api-microservice/issues/7) in [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice)
+5. ❗️ Opened issue [#4](https://github.com/Azure-Samples/container-apps-store-api-microservice/issues/4) in [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice)
 <!--END_SECTION:activity-->
