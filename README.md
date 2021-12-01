@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
+1. ❗️ Opened issue [#3](https://github.com/jongio/github-azure-oidc/issues/3) in [jongio/github-azure-oidc](https://github.com/jongio/github-azure-oidc)
 2. 🗣 Commented on [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
-3. ❗️ Closed issue [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
-4. ❗️ Opened issue [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
-5. ❗️ Opened issue [#265](https://github.com/mspnp/aks-secure-baseline/issues/265) in [mspnp/aks-secure-baseline](https://github.com/mspnp/aks-secure-baseline)
+3. 🗣 Commented on [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
+4. ❗️ Closed issue [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
+5. ❗️ Opened issue [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
 <!--END_SECTION:activity-->
