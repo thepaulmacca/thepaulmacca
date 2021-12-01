@@ -27,8 +27,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
-2. ❗️ Closed issue [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
-3. ❗️ Opened issue [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
-4. ❗️ Opened issue [#265](https://github.com/mspnp/aks-secure-baseline/issues/265) in [mspnp/aks-secure-baseline](https://github.com/mspnp/aks-secure-baseline)
-5. 🗣 Commented on [#144](https://github.com/mspnp/aks-secure-baseline/issues/144) in [mspnp/aks-secure-baseline](https://github.com/mspnp/aks-secure-baseline)
+2. 🗣 Commented on [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
+3. ❗️ Closed issue [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
+4. ❗️ Opened issue [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
+5. ❗️ Opened issue [#265](https://github.com/mspnp/aks-secure-baseline/issues/265) in [mspnp/aks-secure-baseline](https://github.com/mspnp/aks-secure-baseline)
 <!--END_SECTION:activity-->
