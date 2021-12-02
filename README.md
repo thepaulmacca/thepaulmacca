@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/jongio/github-azure-oidc/issues/3) in [jongio/github-azure-oidc](https://github.com/jongio/github-azure-oidc)
-2. 🗣 Commented on [#3](https://github.com/jongio/github-azure-oidc/issues/3) in [jongio/github-azure-oidc](https://github.com/jongio/github-azure-oidc)
-3. ❗️ Opened issue [#3](https://github.com/jongio/github-azure-oidc/issues/3) in [jongio/github-azure-oidc](https://github.com/jongio/github-azure-oidc)
-4. 🗣 Commented on [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
+1. ❗️ Opened issue [#184](https://github.com/Azure/login/issues/184) in [Azure/login](https://github.com/Azure/login)
+2. ❗️ Closed issue [#3](https://github.com/jongio/github-azure-oidc/issues/3) in [jongio/github-azure-oidc](https://github.com/jongio/github-azure-oidc)
+3. 🗣 Commented on [#3](https://github.com/jongio/github-azure-oidc/issues/3) in [jongio/github-azure-oidc](https://github.com/jongio/github-azure-oidc)
+4. ❗️ Opened issue [#3](https://github.com/jongio/github-azure-oidc/issues/3) in [jongio/github-azure-oidc](https://github.com/jongio/github-azure-oidc)
 5. 🗣 Commented on [#470](https://github.com/weaveworks/kured/issues/470) in [weaveworks/kured](https://github.com/weaveworks/kured)
 <!--END_SECTION:activity-->
