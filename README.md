@@ -1,7 +1,8 @@
 # Hi 👋 thanks for visiting my profile
 
 - 💬 My Blog: <https://blog.thepaulmacca.com>
-- 🌱 I’m currently learning Bicep, Docker, Linux and Kubernetes
+- 🌱 Currently learning Bicep, Docker, Linux and Kubernetes
+- 📚 Studying for the CKA (Certified Kubernetes Administrator) exam
 - 📫 How to reach me: You can @ me on [Twitter](https://twitter.com/thepaulmacca), connect with me on [LinkedIn](https://www.linkedin.com/in/thepaulmacca/), or drop me an [Email](mailto:pm@thepaulmacca.com)
 
 ---
