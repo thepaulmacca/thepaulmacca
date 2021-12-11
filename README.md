@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/mspnp/aks-baseline/issues/144) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
-2. 🗣 Commented on [#1967](https://github.com/Azure/AKS/issues/1967) in [Azure/AKS](https://github.com/Azure/AKS)
-3. 🗣 Commented on [#144](https://github.com/mspnp/aks-baseline/issues/144) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
+1. ❗️ Opened issue [#4340](https://github.com/kubernetes-sigs/kustomize/issues/4340) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+2. 🗣 Commented on [#144](https://github.com/mspnp/aks-baseline/issues/144) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
+3. 🗣 Commented on [#1967](https://github.com/Azure/AKS/issues/1967) in [Azure/AKS](https://github.com/Azure/AKS)
 4. 🗣 Commented on [#144](https://github.com/mspnp/aks-baseline/issues/144) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
 5. 🗣 Commented on [#144](https://github.com/mspnp/aks-baseline/issues/144) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
 <!--END_SECTION:activity-->
