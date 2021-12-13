@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4340](https://github.com/kubernetes-sigs/kustomize/issues/4340) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-2. 🗣 Commented on [#144](https://github.com/mspnp/aks-baseline/issues/144) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
-3. 🗣 Commented on [#1967](https://github.com/Azure/AKS/issues/1967) in [Azure/AKS](https://github.com/Azure/AKS)
-4. 🗣 Commented on [#144](https://github.com/mspnp/aks-baseline/issues/144) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
+1. ❗️ Opened issue [#85178](https://github.com/MicrosoftDocs/azure-docs/issues/85178) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+2. ❗️ Opened issue [#4340](https://github.com/kubernetes-sigs/kustomize/issues/4340) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+3. 🗣 Commented on [#144](https://github.com/mspnp/aks-baseline/issues/144) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
+4. 🗣 Commented on [#1967](https://github.com/Azure/AKS/issues/1967) in [Azure/AKS](https://github.com/Azure/AKS)
 5. 🗣 Commented on [#144](https://github.com/mspnp/aks-baseline/issues/144) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
 <!--END_SECTION:activity-->
