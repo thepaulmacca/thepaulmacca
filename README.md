@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6067](https://github.com/microsoft/vscode-remote-release/issues/6067) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-2. 🗣 Commented on [#4338](https://github.com/kubernetes-sigs/kustomize/issues/4338) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-3. 🗣 Commented on [#44](https://github.com/fluxcd/flux2-kustomize-helm-example/issues/44) in [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example)
-4. ❗️ Opened issue [#85178](https://github.com/MicrosoftDocs/azure-docs/issues/85178) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-5. ❗️ Opened issue [#4340](https://github.com/kubernetes-sigs/kustomize/issues/4340) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+1. 🗣 Commented on [#44](https://github.com/fluxcd/flux2-kustomize-helm-example/issues/44) in [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example)
+2. 🗣 Commented on [#6067](https://github.com/microsoft/vscode-remote-release/issues/6067) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+3. 🗣 Commented on [#4338](https://github.com/kubernetes-sigs/kustomize/issues/4338) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+4. 🗣 Commented on [#44](https://github.com/fluxcd/flux2-kustomize-helm-example/issues/44) in [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example)
+5. ❗️ Opened issue [#85178](https://github.com/MicrosoftDocs/azure-docs/issues/85178) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 <!--END_SECTION:activity-->
