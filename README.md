@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85178](https://github.com/MicrosoftDocs/azure-docs/issues/85178) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-2. 🗣 Commented on [#85388](https://github.com/MicrosoftDocs/azure-docs/issues/85388) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-3. ❗️ Opened issue [#85388](https://github.com/MicrosoftDocs/azure-docs/issues/85388) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-4. 🗣 Commented on [#44](https://github.com/fluxcd/flux2-kustomize-helm-example/issues/44) in [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example)
-5. 🗣 Commented on [#6067](https://github.com/microsoft/vscode-remote-release/issues/6067) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+1. 🗣 Commented on [#85388](https://github.com/MicrosoftDocs/azure-docs/issues/85388) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+2. 🗣 Commented on [#85178](https://github.com/MicrosoftDocs/azure-docs/issues/85178) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+3. 🗣 Commented on [#85388](https://github.com/MicrosoftDocs/azure-docs/issues/85388) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+4. ❗️ Opened issue [#85388](https://github.com/MicrosoftDocs/azure-docs/issues/85388) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+5. 🗣 Commented on [#44](https://github.com/fluxcd/flux2-kustomize-helm-example/issues/44) in [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example)
 <!--END_SECTION:activity-->
