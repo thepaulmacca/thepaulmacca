@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Azure-Samples/container-apps-store-api-microservice/issues/4) in [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice)
-2. 🗣 Commented on [#85388](https://github.com/MicrosoftDocs/azure-docs/issues/85388) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-3. 🗣 Commented on [#85178](https://github.com/MicrosoftDocs/azure-docs/issues/85178) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-4. 🗣 Commented on [#85388](https://github.com/MicrosoftDocs/azure-docs/issues/85388) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-5. ❗️ Opened issue [#85388](https://github.com/MicrosoftDocs/azure-docs/issues/85388) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+1. ❗️ Opened issue [#131](https://github.com/Mitrichius/hugo-theme-anubis/issues/131) in [Mitrichius/hugo-theme-anubis](https://github.com/Mitrichius/hugo-theme-anubis)
+2. 🗣 Commented on [#4](https://github.com/Azure-Samples/container-apps-store-api-microservice/issues/4) in [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice)
+3. 🗣 Commented on [#85388](https://github.com/MicrosoftDocs/azure-docs/issues/85388) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+4. 🗣 Commented on [#85178](https://github.com/MicrosoftDocs/azure-docs/issues/85178) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+5. 🗣 Commented on [#85388](https://github.com/MicrosoftDocs/azure-docs/issues/85388) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 <!--END_SECTION:activity-->
