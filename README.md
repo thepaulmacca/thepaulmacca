@@ -7,7 +7,7 @@
 
 ---
 
-## :blue_book: Blog Posts
+## :blue_book: Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [About Me](https://blog.thepaulmacca.com/about/)
 - [Creating and Referencing Key Vault Secrets in Bicep](https://blog.thepaulmacca.com/posts/creating-and-referencing-key-vault-secrets-in-bicep/)
