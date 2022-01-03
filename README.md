@@ -9,10 +9,10 @@
 
 ## :blue_book: Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [About Me](https://blog.thepaulmacca.com/about/)
 - [Creating and Referencing Key Vault Secrets in Bicep](https://blog.thepaulmacca.com/posts/creating-and-referencing-key-vault-secrets-in-bicep/)
 - [Azure CLI Bash Completion](https://blog.thepaulmacca.com/posts/azure-cli-bash-completion/)
 - [Azure Icon Collection](https://blog.thepaulmacca.com/posts/azure-icon-collection/)
+- [About Me](https://blog.thepaulmacca.com/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
