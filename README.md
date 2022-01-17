@@ -12,7 +12,7 @@
 - [Azure Pipelines Templates for Bicep Deployments](https://blog.thepaulmacca.com/azure-pipelines-templates-for-bicep-deployments/)
 - [Creating and Referencing Key Vault Secrets in Bicep](https://blog.thepaulmacca.com/creating-and-referencing-key-vault-secrets-in-bicep/)
 - [Azure CLI Bash Completion](https://blog.thepaulmacca.com/azure-cli-bash-completion/)
-- [Pull Request Comment With Latest Build Artifact Download Link](https://blog.thepaulmacca.com/pull-request-comment-with-latest-build-artifact-download-link/)
+- [Add Azure DevOps Pull Request Comment with Latest Build Artifact Download Link](https://blog.thepaulmacca.com/add-azure-devops-pull-request-comment-with-latest-build-artifact-download-link/)
 - [Azure Icon Collection](https://blog.thepaulmacca.com/azure-icon-collection/)
 <!-- BLOG-POST-LIST:END -->
 
