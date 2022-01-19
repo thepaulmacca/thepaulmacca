@@ -10,7 +10,7 @@
 ## :blue_book: Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Azure Pipelines Templates for Bicep Deployments](https://blog.thepaulmacca.com/azure-pipelines-templates-for-bicep-deployments/)
-- [Creating and Referencing Key Vault Secrets with Bicep](https://blog.thepaulmacca.com/creating-and-referencing-key-vault-secrets-with-bicep/)
+- [Creating and Referencing Azure Key Vault Secrets with Bicep](https://blog.thepaulmacca.com/creating-and-referencing-azure-key-vault-secrets-with-bicep/)
 - [Enabling Azure CLI Bash Completion](https://blog.thepaulmacca.com/enabling-azure-cli-bash-completion/)
 - [Azure Repos Pull Request Comment with Latest Build Artifact Download Link](https://blog.thepaulmacca.com/azure-repos-pull-request-comment-with-latest-build-artifact-download-link/)
 - [Azure Icon Collection](https://blog.thepaulmacca.com/azure-icon-collection/)
