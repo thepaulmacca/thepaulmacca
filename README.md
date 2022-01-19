@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/thepaulmacca/azure-pipelines-templates/issues/3) in [thepaulmacca/azure-pipelines-templates](https://github.com/thepaulmacca/azure-pipelines-templates)
-2. ❗️ Opened issue [#275](https://github.com/mspnp/aks-baseline/issues/275) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
-3. 🗣 Commented on [#5636](https://github.com/Azure/bicep/issues/5636) in [Azure/bicep](https://github.com/Azure/bicep)
-4. 🗣 Commented on [#15710](https://github.com/microsoft/azure-pipelines-tasks/issues/15710) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-5. ❗️ Opened issue [#15710](https://github.com/microsoft/azure-pipelines-tasks/issues/15710) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+1. ❗️ Opened issue [#4](https://github.com/thepaulmacca/azure-pipelines-templates/issues/4) in [thepaulmacca/azure-pipelines-templates](https://github.com/thepaulmacca/azure-pipelines-templates)
+2. ❗️ Opened issue [#3](https://github.com/thepaulmacca/azure-pipelines-templates/issues/3) in [thepaulmacca/azure-pipelines-templates](https://github.com/thepaulmacca/azure-pipelines-templates)
+3. ❗️ Opened issue [#275](https://github.com/mspnp/aks-baseline/issues/275) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
+4. 🗣 Commented on [#5636](https://github.com/Azure/bicep/issues/5636) in [Azure/bicep](https://github.com/Azure/bicep)
+5. 🗣 Commented on [#15710](https://github.com/microsoft/azure-pipelines-tasks/issues/15710) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
 <!--END_SECTION:activity-->
