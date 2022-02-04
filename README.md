@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#275](https://github.com/mspnp/aks-baseline/issues/275) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
-2. ❗️ Closed issue [#1](https://github.com/thepaulmacca/pipelines-templates/issues/1) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-3. 🎉 Merged PR [#2](https://github.com/thepaulmacca/pipelines-templates/pull/2) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-4. 💪 Opened PR [#2](https://github.com/thepaulmacca/pipelines-templates/pull/2) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-5. ❗️ Opened issue [#1](https://github.com/thepaulmacca/pipelines-templates/issues/1) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+1. 💪 Opened PR [#969](https://github.com/Azure/ResourceModules/pull/969) in [Azure/ResourceModules](https://github.com/Azure/ResourceModules)
+2. 💪 Opened PR [#1](https://github.com/thepaulmacca/ResourceModules/pull/1) in [thepaulmacca/ResourceModules](https://github.com/thepaulmacca/ResourceModules)
+3. 💪 Opened PR [#280](https://github.com/mspnp/aks-baseline/pull/280) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
+4. 🗣 Commented on [#275](https://github.com/mspnp/aks-baseline/issues/275) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
+5. ❗️ Closed issue [#1](https://github.com/thepaulmacca/pipelines-templates/issues/1) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
 <!--END_SECTION:activity-->
