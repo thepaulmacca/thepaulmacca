@@ -14,4 +14,4 @@ jobs:
       - name: Pull in blog.thepaulmacca.com posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://blog.thepaulmacca.com/index.xml"
+          feed_list: "https://blog.thepaulmacca.com/rss/"
