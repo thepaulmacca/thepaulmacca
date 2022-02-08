@@ -27,8 +27,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#281](https://github.com/mspnp/aks-baseline/issues/281) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
-2. 💪 Opened PR [#969](https://github.com/Azure/ResourceModules/pull/969) in [Azure/ResourceModules](https://github.com/Azure/ResourceModules)
-3. 💪 Opened PR [#1](https://github.com/thepaulmacca/ResourceModules/pull/1) in [thepaulmacca/ResourceModules](https://github.com/thepaulmacca/ResourceModules)
-4. 💪 Opened PR [#280](https://github.com/mspnp/aks-baseline/pull/280) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
-5. 🗣 Commented on [#275](https://github.com/mspnp/aks-baseline/issues/275) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
+2. 🗣 Commented on [#281](https://github.com/mspnp/aks-baseline/issues/281) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
+3. 💪 Opened PR [#969](https://github.com/Azure/ResourceModules/pull/969) in [Azure/ResourceModules](https://github.com/Azure/ResourceModules)
+4. 💪 Opened PR [#1](https://github.com/thepaulmacca/ResourceModules/pull/1) in [thepaulmacca/ResourceModules](https://github.com/thepaulmacca/ResourceModules)
+5. 💪 Opened PR [#280](https://github.com/mspnp/aks-baseline/pull/280) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
 <!--END_SECTION:activity-->
