@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11880](https://github.com/MicrosoftDocs/azure-devops-docs/issues/11880) in [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs)
-2. ❗️ Opened issue [#732](https://github.com/MicrosoftDocs/cloud-adoption-framework/issues/732) in [MicrosoftDocs/cloud-adoption-framework](https://github.com/MicrosoftDocs/cloud-adoption-framework)
-3. ❗️ Closed issue [#984](https://github.com/Azure/ResourceModules/issues/984) in [Azure/ResourceModules](https://github.com/Azure/ResourceModules)
-4. 🗣 Commented on [#984](https://github.com/Azure/ResourceModules/issues/984) in [Azure/ResourceModules](https://github.com/Azure/ResourceModules)
-5. 🗣 Commented on [#281](https://github.com/mspnp/aks-baseline/issues/281) in [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline)
+1. 🎉 Merged PR [#5](https://github.com/thepaulmacca/pipelines-templates/pull/5) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+2. ❗️ Closed issue [#4](https://github.com/thepaulmacca/pipelines-templates/issues/4) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+3. 💪 Opened PR [#5](https://github.com/thepaulmacca/pipelines-templates/pull/5) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+4. ❗️ Opened issue [#4](https://github.com/thepaulmacca/pipelines-templates/issues/4) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+5. 🗣 Commented on [#11880](https://github.com/MicrosoftDocs/azure-devops-docs/issues/11880) in [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs)
 <!--END_SECTION:activity-->
