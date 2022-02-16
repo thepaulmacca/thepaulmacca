@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/thepaulmacca/pipelines-templates/pull/5) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-2. ❗️ Closed issue [#4](https://github.com/thepaulmacca/pipelines-templates/issues/4) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-3. 💪 Opened PR [#5](https://github.com/thepaulmacca/pipelines-templates/pull/5) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-4. ❗️ Opened issue [#4](https://github.com/thepaulmacca/pipelines-templates/issues/4) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-5. 🗣 Commented on [#11880](https://github.com/MicrosoftDocs/azure-devops-docs/issues/11880) in [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs)
+1. ❗️ Opened issue [#6](https://github.com/thepaulmacca/pipelines-templates/issues/6) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+2. 🎉 Merged PR [#5](https://github.com/thepaulmacca/pipelines-templates/pull/5) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+3. ❗️ Closed issue [#4](https://github.com/thepaulmacca/pipelines-templates/issues/4) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+4. 💪 Opened PR [#5](https://github.com/thepaulmacca/pipelines-templates/pull/5) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+5. ❗️ Opened issue [#4](https://github.com/thepaulmacca/pipelines-templates/issues/4) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
 <!--END_SECTION:activity-->
