@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/thepaulmacca/pipelines-templates/pull/8) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-2. ❗️ Closed issue [#6](https://github.com/thepaulmacca/pipelines-templates/issues/6) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-3. 💪 Opened PR [#8](https://github.com/thepaulmacca/pipelines-templates/pull/8) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-4. ❗️ Reopened issue [#6](https://github.com/thepaulmacca/pipelines-templates/issues/6) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
-5. 🎉 Merged PR [#7](https://github.com/thepaulmacca/pipelines-templates/pull/7) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+1. 🎉 Merged PR [#9](https://github.com/thepaulmacca/pipelines-templates/pull/9) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+2. 💪 Opened PR [#9](https://github.com/thepaulmacca/pipelines-templates/pull/9) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+3. 🎉 Merged PR [#8](https://github.com/thepaulmacca/pipelines-templates/pull/8) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+4. ❗️ Closed issue [#6](https://github.com/thepaulmacca/pipelines-templates/issues/6) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+5. 💪 Opened PR [#8](https://github.com/thepaulmacca/pipelines-templates/pull/8) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
 <!--END_SECTION:activity-->
