@@ -9,10 +9,11 @@
 
 ## :blue_book: Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating and Referencing Azure Key Vault Secrets with Bicep](https://blog.thepaulmacca.com/creating-and-referencing-azure-key-vault-secrets-with-bicep/)
-- [Enabling Azure CLI Bash Completion](https://blog.thepaulmacca.com/enabling-azure-cli-bash-completion/)
-- [Azure Repos Pull Request Comment with Latest Build Artifact Download Link](https://blog.thepaulmacca.com/azure-repos-pull-request-comment-with-latest-build-artifact-download-link/)
-- [Azure Icon Collection](https://blog.thepaulmacca.com/azure-icon-collection/)
+- [Creating and Referencing Azure Key Vault Secrets in Bicep](https://blog.thepaulmacca.com/posts/creating-and-referencing-azure-key-vault-secrets-in-bicep/)
+- [Enabling Azure CLI Bash Completion](https://blog.thepaulmacca.com/posts/enabling-azure-cli-bash-completion/)
+- [Azure Repos Pull Request Comment With Latest Build Artifact Download Link](https://blog.thepaulmacca.com/posts/azure-repos-pull-request-comment-with-latest-build-artifact-download-link/)
+- [Azure Icon Collection](https://blog.thepaulmacca.com/posts/azure-icon-collection/)
+- [About Me](https://blog.thepaulmacca.com/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
