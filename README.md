@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/thepaulmacca/bicep-aks/pull/2) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-2. 💪 Opened PR [#2](https://github.com/thepaulmacca/bicep-aks/pull/2) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-3. 🎉 Merged PR [#1](https://github.com/thepaulmacca/bicep-aks/pull/1) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-4. 💪 Opened PR [#1](https://github.com/thepaulmacca/bicep-aks/pull/1) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-5. ❗️ Closed issue [#1](https://github.com/thepaulmacca/pipelines-templates/issues/1) in [thepaulmacca/pipelines-templates](https://github.com/thepaulmacca/pipelines-templates)
+1. 🎉 Merged PR [#3](https://github.com/thepaulmacca/bicep-aks/pull/3) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
+2. 💪 Opened PR [#3](https://github.com/thepaulmacca/bicep-aks/pull/3) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
+3. 🎉 Merged PR [#2](https://github.com/thepaulmacca/bicep-aks/pull/2) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
+4. 💪 Opened PR [#2](https://github.com/thepaulmacca/bicep-aks/pull/2) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
+5. 🎉 Merged PR [#1](https://github.com/thepaulmacca/bicep-aks/pull/1) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
 <!--END_SECTION:activity-->
