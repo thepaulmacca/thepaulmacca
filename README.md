@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/thepaulmacca/bicep-aks/pull/5) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-2. 💪 Opened PR [#5](https://github.com/thepaulmacca/bicep-aks/pull/5) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-3. 🎉 Merged PR [#4](https://github.com/thepaulmacca/bicep-aks/pull/4) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-4. 💪 Opened PR [#4](https://github.com/thepaulmacca/bicep-aks/pull/4) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-5. 🎉 Merged PR [#3](https://github.com/thepaulmacca/bicep-aks/pull/3) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
+1. 💪 Opened PR [#55](https://github.com/fluxcd/flux2-kustomize-helm-example/pull/55) in [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example)
+2. 🎉 Merged PR [#5](https://github.com/thepaulmacca/bicep-aks/pull/5) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
+3. 💪 Opened PR [#5](https://github.com/thepaulmacca/bicep-aks/pull/5) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
+4. 🎉 Merged PR [#4](https://github.com/thepaulmacca/bicep-aks/pull/4) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
+5. 💪 Opened PR [#4](https://github.com/thepaulmacca/bicep-aks/pull/4) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
 <!--END_SECTION:activity-->
