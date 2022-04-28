@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#431](https://github.com/helm/chart-testing/issues/431) in [helm/chart-testing](https://github.com/helm/chart-testing)
-2. 🗣 Commented on [#732](https://github.com/MicrosoftDocs/cloud-adoption-framework/issues/732) in [MicrosoftDocs/cloud-adoption-framework](https://github.com/MicrosoftDocs/cloud-adoption-framework)
-3. 🎉 Merged PR [#1](https://github.com/thepaulmacca/blog.thepaulmacca.com/pull/1) in [thepaulmacca/blog.thepaulmacca.com](https://github.com/thepaulmacca/blog.thepaulmacca.com)
-4. 🎉 Merged PR [#6](https://github.com/thepaulmacca/bicep-aks/pull/6) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-5. 💪 Opened PR [#6](https://github.com/thepaulmacca/bicep-aks/pull/6) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
+1. ❗️ Opened issue [#10911](https://github.com/helm/helm/issues/10911) in [helm/helm](https://github.com/helm/helm)
+2. ❗️ Closed issue [#431](https://github.com/helm/chart-testing/issues/431) in [helm/chart-testing](https://github.com/helm/chart-testing)
+3. 🗣 Commented on [#431](https://github.com/helm/chart-testing/issues/431) in [helm/chart-testing](https://github.com/helm/chart-testing)
+4. ❗️ Opened issue [#431](https://github.com/helm/chart-testing/issues/431) in [helm/chart-testing](https://github.com/helm/chart-testing)
+5. 🗣 Commented on [#732](https://github.com/MicrosoftDocs/cloud-adoption-framework/issues/732) in [MicrosoftDocs/cloud-adoption-framework](https://github.com/MicrosoftDocs/cloud-adoption-framework)
 <!--END_SECTION:activity-->
