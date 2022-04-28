@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#732](https://github.com/MicrosoftDocs/cloud-adoption-framework/issues/732) in [MicrosoftDocs/cloud-adoption-framework](https://github.com/MicrosoftDocs/cloud-adoption-framework)
-2. 🎉 Merged PR [#1](https://github.com/thepaulmacca/blog.thepaulmacca.com/pull/1) in [thepaulmacca/blog.thepaulmacca.com](https://github.com/thepaulmacca/blog.thepaulmacca.com)
-3. 🎉 Merged PR [#6](https://github.com/thepaulmacca/bicep-aks/pull/6) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-4. 💪 Opened PR [#6](https://github.com/thepaulmacca/bicep-aks/pull/6) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
-5. 🗣 Commented on [#55](https://github.com/fluxcd/flux2-kustomize-helm-example/issues/55) in [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example)
+1. ❗️ Opened issue [#431](https://github.com/helm/chart-testing/issues/431) in [helm/chart-testing](https://github.com/helm/chart-testing)
+2. 🗣 Commented on [#732](https://github.com/MicrosoftDocs/cloud-adoption-framework/issues/732) in [MicrosoftDocs/cloud-adoption-framework](https://github.com/MicrosoftDocs/cloud-adoption-framework)
+3. 🎉 Merged PR [#1](https://github.com/thepaulmacca/blog.thepaulmacca.com/pull/1) in [thepaulmacca/blog.thepaulmacca.com](https://github.com/thepaulmacca/blog.thepaulmacca.com)
+4. 🎉 Merged PR [#6](https://github.com/thepaulmacca/bicep-aks/pull/6) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
+5. 💪 Opened PR [#6](https://github.com/thepaulmacca/bicep-aks/pull/6) in [thepaulmacca/bicep-aks](https://github.com/thepaulmacca/bicep-aks)
 <!--END_SECTION:activity-->
