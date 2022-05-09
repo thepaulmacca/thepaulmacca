@@ -29,7 +29,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13035](https://github.com/kubernetes/minikube/issues/13035) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
 2. 🗣 Commented on [#13035](https://github.com/kubernetes/minikube/issues/13035) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-3. 🗣 Commented on [#10911](https://github.com/helm/helm/issues/10911) in [helm/helm](https://github.com/helm/helm)
-4. ❗️ Opened issue [#10911](https://github.com/helm/helm/issues/10911) in [helm/helm](https://github.com/helm/helm)
-5. ❗️ Closed issue [#431](https://github.com/helm/chart-testing/issues/431) in [helm/chart-testing](https://github.com/helm/chart-testing)
+3. 🗣 Commented on [#13035](https://github.com/kubernetes/minikube/issues/13035) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+4. 🗣 Commented on [#10911](https://github.com/helm/helm/issues/10911) in [helm/helm](https://github.com/helm/helm)
+5. ❗️ Opened issue [#10911](https://github.com/helm/helm/issues/10911) in [helm/helm](https://github.com/helm/helm)
 <!--END_SECTION:activity-->
