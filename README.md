@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13035](https://github.com/kubernetes/minikube/issues/13035) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+1. ❗️ Opened issue [#2763](https://github.com/kubernetes-sigs/kind/issues/2763) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 2. 🗣 Commented on [#13035](https://github.com/kubernetes/minikube/issues/13035) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
 3. 🗣 Commented on [#13035](https://github.com/kubernetes/minikube/issues/13035) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-4. 🗣 Commented on [#10911](https://github.com/helm/helm/issues/10911) in [helm/helm](https://github.com/helm/helm)
-5. ❗️ Opened issue [#10911](https://github.com/helm/helm/issues/10911) in [helm/helm](https://github.com/helm/helm)
+4. 🗣 Commented on [#13035](https://github.com/kubernetes/minikube/issues/13035) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+5. 🗣 Commented on [#10911](https://github.com/helm/helm/issues/10911) in [helm/helm](https://github.com/helm/helm)
 <!--END_SECTION:activity-->
