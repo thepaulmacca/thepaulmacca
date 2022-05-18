@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10970](https://github.com/helm/helm/issues/10970) in [helm/helm](https://github.com/helm/helm)
-2. 💪 Opened PR [#92925](https://github.com/MicrosoftDocs/azure-docs/pull/92925) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-3. ❗️ Closed issue [#2763](https://github.com/kubernetes-sigs/kind/issues/2763) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-4. 🗣 Commented on [#2763](https://github.com/kubernetes-sigs/kind/issues/2763) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-5. ❗️ Opened issue [#2763](https://github.com/kubernetes-sigs/kind/issues/2763) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+1. ❗️ Closed issue [#10970](https://github.com/helm/helm/issues/10970) in [helm/helm](https://github.com/helm/helm)
+2. ❗️ Opened issue [#10970](https://github.com/helm/helm/issues/10970) in [helm/helm](https://github.com/helm/helm)
+3. 💪 Opened PR [#92925](https://github.com/MicrosoftDocs/azure-docs/pull/92925) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+4. ❗️ Closed issue [#2763](https://github.com/kubernetes-sigs/kind/issues/2763) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+5. 🗣 Commented on [#2763](https://github.com/kubernetes-sigs/kind/issues/2763) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
 <!--END_SECTION:activity-->
