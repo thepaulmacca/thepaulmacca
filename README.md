@@ -27,9 +27,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/thepaulmacca/write-github-script/issues/8) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
-2. 🎉 Merged PR [#6](https://github.com/thepaulmacca/write-github-script/pull/6) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
-3. 💪 Opened PR [#6](https://github.com/thepaulmacca/write-github-script/pull/6) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
-4. 🎉 Merged PR [#4](https://github.com/thepaulmacca/write-github-script/pull/4) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
-5. 💪 Opened PR [#4](https://github.com/thepaulmacca/write-github-script/pull/4) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
+1. 🗣 Commented on [#1](https://github.com/thepaulmacca/blog-comments/issues/1) in [thepaulmacca/blog-comments](https://github.com/thepaulmacca/blog-comments)
+2. ❗️ Opened issue [#8](https://github.com/thepaulmacca/write-github-script/issues/8) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
+3. 🎉 Merged PR [#6](https://github.com/thepaulmacca/write-github-script/pull/6) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
+4. 💪 Opened PR [#6](https://github.com/thepaulmacca/write-github-script/pull/6) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
+5. 🎉 Merged PR [#4](https://github.com/thepaulmacca/write-github-script/pull/4) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
 <!--END_SECTION:activity-->
