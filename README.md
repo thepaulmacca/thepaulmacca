@@ -28,8 +28,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/Azure-Samples/azure-sql-db-change-stream-debezium/issues/5) in [Azure-Samples/azure-sql-db-change-stream-debezium](https://github.com/Azure-Samples/azure-sql-db-change-stream-debezium)
-2. 🗣 Commented on [#1](https://github.com/thepaulmacca/blog-comments/issues/1) in [thepaulmacca/blog-comments](https://github.com/thepaulmacca/blog-comments)
-3. ❗️ Opened issue [#8](https://github.com/thepaulmacca/write-github-script/issues/8) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
-4. 🎉 Merged PR [#6](https://github.com/thepaulmacca/write-github-script/pull/6) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
-5. 💪 Opened PR [#6](https://github.com/thepaulmacca/write-github-script/pull/6) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
+2. 🗣 Commented on [#5](https://github.com/Azure-Samples/azure-sql-db-change-stream-debezium/issues/5) in [Azure-Samples/azure-sql-db-change-stream-debezium](https://github.com/Azure-Samples/azure-sql-db-change-stream-debezium)
+3. 🗣 Commented on [#1](https://github.com/thepaulmacca/blog-comments/issues/1) in [thepaulmacca/blog-comments](https://github.com/thepaulmacca/blog-comments)
+4. ❗️ Opened issue [#8](https://github.com/thepaulmacca/write-github-script/issues/8) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
+5. 🎉 Merged PR [#6](https://github.com/thepaulmacca/write-github-script/pull/6) in [thepaulmacca/write-github-script](https://github.com/thepaulmacca/write-github-script)
 <!--END_SECTION:activity-->
