@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/thepaulmacca/tpm-shared-infra/pull/2) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
-2. 💪 Opened PR [#2](https://github.com/thepaulmacca/tpm-shared-infra/pull/2) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
-3. 🎉 Merged PR [#1](https://github.com/thepaulmacca/tpm-shared-infra/pull/1) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
-4. 💪 Opened PR [#1](https://github.com/thepaulmacca/tpm-shared-infra/pull/1) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
-5. 🎉 Merged PR [#2](https://github.com/thepaulmacca/tpm-shared-infra/pull/2) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
+1. ❗️ Opened issue [#3312](https://github.com/bridgecrewio/checkov/issues/3312) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+2. 🎉 Merged PR [#2](https://github.com/thepaulmacca/tpm-shared-infra/pull/2) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
+3. 💪 Opened PR [#2](https://github.com/thepaulmacca/tpm-shared-infra/pull/2) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
+4. 🎉 Merged PR [#1](https://github.com/thepaulmacca/tpm-shared-infra/pull/1) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
+5. 💪 Opened PR [#1](https://github.com/thepaulmacca/tpm-shared-infra/pull/1) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
 <!--END_SECTION:activity-->
