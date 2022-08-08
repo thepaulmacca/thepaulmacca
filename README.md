@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3326](https://github.com/bridgecrewio/checkov/issues/3326) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-2. ❗️ Closed issue [#3312](https://github.com/bridgecrewio/checkov/issues/3312) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-3. 🗣 Commented on [#3312](https://github.com/bridgecrewio/checkov/issues/3312) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-4. ❗️ Opened issue [#11213](https://github.com/helm/helm/issues/11213) in [helm/helm](https://github.com/helm/helm)
-5. ❗️ Opened issue [#3312](https://github.com/bridgecrewio/checkov/issues/3312) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+1. 🗣 Commented on [#661](https://github.com/bridgecrewio/checkov/issues/661) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+2. ❗️ Opened issue [#3326](https://github.com/bridgecrewio/checkov/issues/3326) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+3. ❗️ Closed issue [#3312](https://github.com/bridgecrewio/checkov/issues/3312) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+4. 🗣 Commented on [#3312](https://github.com/bridgecrewio/checkov/issues/3312) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+5. ❗️ Opened issue [#11213](https://github.com/helm/helm/issues/11213) in [helm/helm](https://github.com/helm/helm)
 <!--END_SECTION:activity-->
