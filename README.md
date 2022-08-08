@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11213](https://github.com/helm/helm/issues/11213) in [helm/helm](https://github.com/helm/helm)
-2. ❗️ Opened issue [#3312](https://github.com/bridgecrewio/checkov/issues/3312) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-3. 🎉 Merged PR [#2](https://github.com/thepaulmacca/tpm-shared-infra/pull/2) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
-4. 💪 Opened PR [#2](https://github.com/thepaulmacca/tpm-shared-infra/pull/2) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
-5. 🎉 Merged PR [#1](https://github.com/thepaulmacca/tpm-shared-infra/pull/1) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
+1. ❗️ Closed issue [#3312](https://github.com/bridgecrewio/checkov/issues/3312) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+2. 🗣 Commented on [#3312](https://github.com/bridgecrewio/checkov/issues/3312) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+3. ❗️ Opened issue [#11213](https://github.com/helm/helm/issues/11213) in [helm/helm](https://github.com/helm/helm)
+4. ❗️ Opened issue [#3312](https://github.com/bridgecrewio/checkov/issues/3312) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+5. 🎉 Merged PR [#2](https://github.com/thepaulmacca/tpm-shared-infra/pull/2) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
 <!--END_SECTION:activity-->
