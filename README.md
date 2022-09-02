@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#926](https://github.com/kedacore/keda-docs/pull/926) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
-2. ❗️ Closed issue [#10](https://github.com/kintoandar/pre-commit/issues/10) in [kintoandar/pre-commit](https://github.com/kintoandar/pre-commit)
-3. ❗️ Opened issue [#10](https://github.com/kintoandar/pre-commit/issues/10) in [kintoandar/pre-commit](https://github.com/kintoandar/pre-commit)
-4. 🗣 Commented on [#11213](https://github.com/helm/helm/issues/11213) in [helm/helm](https://github.com/helm/helm)
+1. 🗣 Commented on [#926](https://github.com/kedacore/keda-docs/issues/926) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+2. 💪 Opened PR [#926](https://github.com/kedacore/keda-docs/pull/926) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+3. ❗️ Closed issue [#10](https://github.com/kintoandar/pre-commit/issues/10) in [kintoandar/pre-commit](https://github.com/kintoandar/pre-commit)
+4. ❗️ Opened issue [#10](https://github.com/kintoandar/pre-commit/issues/10) in [kintoandar/pre-commit](https://github.com/kintoandar/pre-commit)
 5. 🗣 Commented on [#11213](https://github.com/helm/helm/issues/11213) in [helm/helm](https://github.com/helm/helm)
 <!--END_SECTION:activity-->
