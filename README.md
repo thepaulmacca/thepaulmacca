@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/thepaulmacca/blog-post-comments/issues/1) in [thepaulmacca/blog-post-comments](https://github.com/thepaulmacca/blog-post-comments)
-2. 🗣 Commented on [#926](https://github.com/kedacore/keda-docs/issues/926) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
-3. 💪 Opened PR [#926](https://github.com/kedacore/keda-docs/pull/926) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
-4. ❗️ Closed issue [#10](https://github.com/kintoandar/pre-commit/issues/10) in [kintoandar/pre-commit](https://github.com/kintoandar/pre-commit)
-5. ❗️ Opened issue [#10](https://github.com/kintoandar/pre-commit/issues/10) in [kintoandar/pre-commit](https://github.com/kintoandar/pre-commit)
+1. 🎉 Merged PR [#3](https://github.com/thepaulmacca/tpm-shared-infra/pull/3) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
+2. 💪 Opened PR [#3](https://github.com/thepaulmacca/tpm-shared-infra/pull/3) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
+3. 🗣 Commented on [#1](https://github.com/thepaulmacca/blog-post-comments/issues/1) in [thepaulmacca/blog-post-comments](https://github.com/thepaulmacca/blog-post-comments)
+4. 🗣 Commented on [#926](https://github.com/kedacore/keda-docs/issues/926) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+5. 💪 Opened PR [#926](https://github.com/kedacore/keda-docs/pull/926) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
 <!--END_SECTION:activity-->
