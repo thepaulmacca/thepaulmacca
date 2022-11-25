@@ -26,9 +26,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#165](https://github.com/norwoodj/helm-docs/issues/165) in [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs)
-2. ❗️ Closed issue [#3326](https://github.com/bridgecrewio/checkov/issues/3326) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-3. 🗣 Commented on [#3326](https://github.com/bridgecrewio/checkov/issues/3326) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+1. 💪 Opened PR [#12923](https://github.com/MicrosoftDocs/azure-devops-docs/pull/12923) in [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs)
+2. 🗣 Commented on [#165](https://github.com/norwoodj/helm-docs/issues/165) in [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs)
+3. ❗️ Closed issue [#3326](https://github.com/bridgecrewio/checkov/issues/3326) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
 4. 🗣 Commented on [#3326](https://github.com/bridgecrewio/checkov/issues/3326) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-5. 🎉 Merged PR [#3](https://github.com/thepaulmacca/tpm-shared-infra/pull/3) in [thepaulmacca/tpm-shared-infra](https://github.com/thepaulmacca/tpm-shared-infra)
+5. 🗣 Commented on [#3326](https://github.com/bridgecrewio/checkov/issues/3326) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
 <!--END_SECTION:activity-->
