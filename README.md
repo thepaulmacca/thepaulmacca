@@ -8,11 +8,11 @@
 
 ## :blue_book: Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [GitOps for AKS with Bicep](https://blog.thepaulmacca.com/gitops-for-aks-with-bicep/)
-- [Creating and Referencing Azure Key Vault Secrets in Bicep](https://blog.thepaulmacca.com/creating-and-referencing-azure-key-vault-secrets-in-bicep/)
-- [Enabling Azure CLI Bash Completion](https://blog.thepaulmacca.com/enabling-azure-cli-bash-completion/)
-- [Azure Repos Pull Request Comment with Latest Build Artifact Download Link](https://blog.thepaulmacca.com/azure-repos-pull-request-comment-with-latest-build-artifact-download-link/)
-- [Azure Icons Collection](https://blog.thepaulmacca.com/azure-icons-collection/)
+- [We help growing companies grow faster!](https://spinideas.nl/lets-build-spin-and-grow-together/)
+- [How to grow your company internationally](https://spinideas.nl/how-to-grow-your-company-internationally/)
+- [5 Marketing Actions to Implement Now Before Year’s End](https://spinideas.nl/5-marketing-actions-to-implement-now-before-years-end/)
+- [Building Belonging: turning vicious into virtuous cycles](https://spinideas.nl/building-belonging-turning-vicious-into-virtuous-cycles/)
+- [Online or offline?](https://spinideas.nl/online-or-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
