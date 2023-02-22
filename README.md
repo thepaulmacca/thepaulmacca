@@ -2,7 +2,7 @@
 
 - 💬 My Blog: <https://blog.thepaulmacca.com>
 - 🌱 Currently learning Go, Kubernetes, Linux and Terraform
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/thepaulmacca/), or drop me an [Email](mailto:pm@thepaulmacca.com)
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/thepaulmacca/), or send me an [Email](mailto:pm@thepaulmacca.com)
 
 ---
 
