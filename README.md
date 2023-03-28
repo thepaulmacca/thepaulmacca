@@ -5,17 +5,6 @@
 
 ---
 
-## :blue_book: Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [GitOps for AKS with Bicep](https://blog.thepaulmacca.com/gitops-for-aks-with-bicep/)
-- [Creating and Referencing Azure Key Vault Secrets in Bicep](https://blog.thepaulmacca.com/creating-and-referencing-azure-key-vault-secrets-in-bicep/)
-- [Enabling Azure CLI Bash Completion](https://blog.thepaulmacca.com/enabling-azure-cli-bash-completion/)
-- [Azure Repos Pull Request Comment with Latest Build Artifact Download Link](https://blog.thepaulmacca.com/azure-repos-pull-request-comment-with-latest-build-artifact-download-link/)
-- [Azure Icons Collection](https://blog.thepaulmacca.com/azure-icons-collection/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## :trophy: GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepaulmacca&count_private=true&show_icons=true&theme=dark)
