@@ -1,5 +1,6 @@
-# Hi 👋 thanks for visiting my profile
+# Hi 👋 thanks for visiting my profile!
 
+- 💼 I'm a DevOps Consultant at [Ensono Digital](https://www.ensonodigital.com/)
 - 🌱 Currently learning Go, Kubernetes, Linux and Terraform
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/thepaulmacca/), or send me an [Email](mailto:pm@thepaulmacca.com)
 
@@ -7,7 +8,12 @@
 
 ## :trophy: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepaulmacca&count_private=true&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thepaulmacca&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepaulmacca&layout=compact&langs_count=8&theme=dark&card_width=320" />
+</a>
 
 ---
 
