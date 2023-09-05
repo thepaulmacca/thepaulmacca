@@ -15,9 +15,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#792](https://github.com/Azure/AppConfiguration/issues/792) in [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration)
-2. 🗣 Commented on [#792](https://github.com/Azure/AppConfiguration/issues/792#issuecomment-1705129168) in [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration)
-3. 🗣 Commented on [#792](https://github.com/Azure/AppConfiguration/issues/792#issuecomment-1690630438) in [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration)
-4. ❗ Opened issue [#792](https://github.com/Azure/AppConfiguration/issues/792) in [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration)
-5. 🗣 Commented on [#522](https://github.com/FairwindsOps/goldilocks/issues/522#issuecomment-1673115178) in [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks)
+1. ❗ Opened issue [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+2. 🔒 Closed issue [#792](https://github.com/Azure/AppConfiguration/issues/792) in [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration)
+3. 🗣 Commented on [#792](https://github.com/Azure/AppConfiguration/issues/792#issuecomment-1705129168) in [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration)
+4. 🗣 Commented on [#792](https://github.com/Azure/AppConfiguration/issues/792#issuecomment-1690630438) in [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration)
+5. ❗ Opened issue [#792](https://github.com/Azure/AppConfiguration/issues/792) in [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration)
 <!--END_SECTION:activity-->
