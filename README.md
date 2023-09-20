@@ -15,9 +15,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1380](https://github.com/headlamp-k8s/headlamp/issues/1380#issuecomment-1722184522) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
-2. 🗣 Commented on [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306#issuecomment-1715200300) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-3. 🗣 Commented on [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306#issuecomment-1712415940) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-4. ❗ Opened issue [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-5. 🔒 Closed issue [#792](https://github.com/Azure/AppConfiguration/issues/792) in [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration)
+1. 🗣 Commented on [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306#issuecomment-1727493639) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+2. 🗣 Commented on [#1380](https://github.com/headlamp-k8s/headlamp/issues/1380#issuecomment-1722184522) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
+3. 🗣 Commented on [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306#issuecomment-1715200300) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+4. 🗣 Commented on [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306#issuecomment-1712415940) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+5. ❗ Opened issue [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 <!--END_SECTION:activity-->
