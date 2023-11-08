@@ -15,9 +15,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1305](https://github.com/headlamp-k8s/headlamp/issues/1305#issuecomment-1791411532) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
-2. 🗣 Commented on [#1305](https://github.com/headlamp-k8s/headlamp/issues/1305#issuecomment-1791129242) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
-3. 🗣 Commented on [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306#issuecomment-1729986863) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-4. 🗣 Commented on [#1380](https://github.com/headlamp-k8s/headlamp/issues/1380#issuecomment-1727522617) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
-5. 🗣 Commented on [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306#issuecomment-1727493639) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+1. 🗣 Commented on [#4597](https://github.com/kedacore/keda/issues/4597#issuecomment-1802288867) in [kedacore/keda](https://github.com/kedacore/keda)
+2. ❗ Opened issue [#116888](https://github.com/MicrosoftDocs/azure-docs/issues/116888) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+3. 🗣 Commented on [#1305](https://github.com/headlamp-k8s/headlamp/issues/1305#issuecomment-1791411532) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
+4. 🗣 Commented on [#1305](https://github.com/headlamp-k8s/headlamp/issues/1305#issuecomment-1791129242) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)
+5. 🗣 Commented on [#114306](https://github.com/MicrosoftDocs/azure-docs/issues/114306#issuecomment-1729986863) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 <!--END_SECTION:activity-->
