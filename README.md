@@ -1,8 +1,7 @@
 # Hi 👋 thanks for visiting my profile!
 
-- 💼 I'm a Senior DevOps Consultant at [Ensono Digital](https://www.ensonodigital.com/)
-- 🌱 Currently learning Go, Kubernetes, Linux and Terraform
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/thepaulmacca/), or send me an [Email](mailto:pm@thepaulmacca.com)
+- 💼 I'm a Senior DevOps Consultant at [Ensono](https://www.ensono.com/gb/)
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/thepaulmacca/), or send me an [Email](mailto:me@thepaulmacca.com)
 
 ---
 
