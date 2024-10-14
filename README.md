@@ -4,8 +4,4 @@
 - ✍️ Check out my [blog](https://thepaulmacca.com)
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/thepaulmacca/), or send me an [Email](mailto:me@thepaulmacca.com)
 
----
-
-## :trophy: GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thepaulmacca&count_private=true&show_icons=true&theme=dark)
